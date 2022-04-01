@@ -1,4 +1,7 @@
 # LIDAR Scanner
+<p align="center">
+    <img src="https://www.unidformazione.com/wp-content/uploads/2018/04/unipd-universita-di-padova.png" width="250" alt="University of Padua"/>
+</p>
 
 ## Assignment
 This assignment requires you to develop a C++ module for handling the incoming data from a LIDAR. A LIDAR is a sensor capable of making distance measurements using a
